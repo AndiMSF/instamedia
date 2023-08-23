@@ -1,0 +1,14 @@
+# Node.js / npm
+/server/node_modules/
+
+# React / npm
+/client/node_modules/
+
+# IDE specific
+.vscode/
+.idea/
+
+# Other sensitive or generated files
+.env
+/server/.env
+/server/env
